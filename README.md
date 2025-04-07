@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Potatoeszxk
 - 👀 I’m interested in developing mobile applications
-- 🌱 I’m currently learning flutter framework for developing mobile banks application
+- 🌱 I’m currently learning flutter framework for developing mobile banks application and GoLang as a backend for mobile bank manager.
 - 📫 You can reach me through my email address [Email address: lyndon.burgos.torres@gmail.com]
